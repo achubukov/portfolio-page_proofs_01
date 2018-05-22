@@ -1,0 +1,6 @@
+.idea
+node_modules
+.sass-cache
+*.thumb
+npm-debug.log
+backup/verstka-2-lesson-3.zip
