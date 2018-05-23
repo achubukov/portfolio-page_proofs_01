@@ -112,3 +112,7 @@ gulp.task('build', ['sass', 'pug', 'js-dist']);
  * files for changes
  */
 gulp.task('default', ['browser-sync', 'watch']);
+
+gulp.task('myt', function() {
+  console.log("test");
+});
